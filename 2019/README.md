@@ -12,7 +12,7 @@ Jupyter notebooks do Curso de Imersão em Ciência de Dados
 - Lidando com dados faltantes
 - Filtragem de dados
 - Leitura e salvamento de datasets (CSV, JSON, Bancos de Dados)
-- Particionamento do conjunto de dados em treino e teste
+- Particionamento do conjunto de dados em conjunto de treino e conjunto de teste
 
 ### 02 - Fundamentos de Aprendizado de Máquina (José Macêdo, Lucas Peres)
 - O que é aprendizado de máquina?
