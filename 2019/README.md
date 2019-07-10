@@ -41,6 +41,8 @@ Jupyter notebooks do Curso de Imersão em Ciência de Dados
 - Regularização: L1, L2
 - Grid Search
 - Pipelines
+- Salvamento e Carga de modelos
+- Aprendizado incremental ou online
 
 ### 07 - Modelos Baseados em Árvores (Regis Pires)
 - Ganho de Informação
