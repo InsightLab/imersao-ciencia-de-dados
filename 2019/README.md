@@ -2,6 +2,15 @@
 
 Jupyter notebooks do Curso de Imersão em Ciência de Dados
 
+### Programação
+
+| Horário | 15/Jul Seg | 16/Jul Ter | 17/Jul Qua | 18/Jul Qui | 19/Jul Sex | 20/Jul Sab |
+|:------------:|:-------------------------------------------------------------:|:----------------------------------------------------:|:-------------------------------------------:|:--------------------------------------------:|:----------------------------------------------------:|:----------------------------------:|
+| 08:00  10:00 | Pré-processamento, Limpeza e Análise de Dados Gustavo - Regis | Fundamentos de Aprendizado de Máquina Macedo - Peres | Modelos LinearesMacedo - Peres | Modelos Baseados em Árvores Regis | Redes Neurais e Aprendizado Profundo Lívia - Ticiana | Hackatinho Gustavo - Peres - Regis |
+| 10:00 12:00 | Pré-processamento, Limpeza e Análise de Dados Gustavo - Regis | Aprendizado não Supervisionado Carlos - Lívia | Métricas de Avaliação Regis | Modelos de Ensemble: Bagging, Boosting Regis | Redes Neurais e Aprendizado Profundo Lívia - Ticiana | Hackatinho Gustavo - Peres - Regis |
+| 14:00 16:00 | Prática Supervisionada Gustavo - Regis | Aprendizado não Supervisionado Carlos - Lívia | Técnicas para melhoria dos resultados Regis | Prática Supervisionada Gustavo - Regis | Prática Supervisionada Gustavo - Regis | SEM ATIVIDADE |
+| 16:00 18:00 | Prática Supervisionada Gustavo - Regis | Prática Supervisionada Gustavo - Regis | Prática Supervisionada Gustavo - Regis | Prática Supervisionada Gustavo - Regis | Prática Supervisionada Gustavo - Regis | SEM ATIVIDADE |
+
 ## Unidades
 
 ### 01 - Pré-processamento, Limpeza e Análise de Dados (Gustavo Coutinho, Regis Pires)
