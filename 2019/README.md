@@ -55,7 +55,7 @@ Jupyter notebooks do Curso de Imersão em Ciência de Dados
 - Boosting
   - Gradient Boosting
 
-### 09 - Redes Neurais e Aprendizado Profundo (Ticiana Linhares, Lívia Almada)
+### 09 - Redes Neurais e Aprendizado Profundo (Lívia Almada, Ticiana Linhares)
 - Redes Neurais
 - Multilayer Perceptron
 - CNN
