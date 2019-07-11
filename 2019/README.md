@@ -42,7 +42,7 @@ Jupyter notebooks do Curso de Imersão em Ciência de Dados 2019
 ### 06 - Técnicas para melhoria dos resultados (Regis Pires)
 - Escalonamento de Features: Normalização, Padronização (Standardization)
 - Resampling: validação cruzada
-- Regularização: L1, L2
+- Regularização: L1 (Lasso), L2 (Ridge), ElasticNet
 - Grid Search
 - Pipelines
 - Salvamento e Carga de modelos
@@ -50,7 +50,7 @@ Jupyter notebooks do Curso de Imersão em Ciência de Dados 2019
 
 ### 07 - Modelos Baseados em Árvores (Regis Pires)
 - Ganho de Informação
-- Medidas de Impureza
+- Medidas de Impureza: Gini, Entropia, Erro de Classificação
 - Importância das Features
 
 ### 08 - Modelos de Ensemble: Bagging / Boosting (Regis Pires)
