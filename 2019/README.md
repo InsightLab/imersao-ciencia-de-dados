@@ -11,6 +11,7 @@ Jupyter notebooks do Curso de Imersão em Ciência de Dados 2019
 ### 01 - Pré-processamento, Limpeza e Análise de Dados (Gustavo Coutinho, Regis Pires)
 - Ciência de Dados
 - Ferramentas Python para manipulação e visualização de dados: Numpy, Matplotlib e Pandas
+- Tipos e Conversão de tipos
 - Correlação
 - Lidando com atributos categóricos
 - Lidando com dados faltantes
