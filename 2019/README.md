@@ -71,6 +71,7 @@ Jupyter notebooks do Curso de Imersão em Ciência de Dados 2019
 - RASCHKA, Sebastian; MIRJALILI, Vahid. [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-second-edition), 2nd Ed. Packt Publishing, 2017. 
   - [Repositório GitHub do Livro](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 - CHOLLET, Francois. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python). 1st Ed. Manning Publications, 2017.
+- GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. (Deep Learning)[https://www.deeplearningbook.org/]. MIT Press, 2016.
 - BURKOV, Andriy. [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php). 2019.
 - JAMES, G., WITTEN, D., HASTIE, T., & TIBSHIRANI, R. [An introduction to statistical learning: with applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/). Corrected edition. New York: Springer, 2013. 
 - HASTIE, Trevor; TIBSHIRANI, Robert; FRIEDMAN, Jerome. [The elements of statistical learning: data mining, inference, and prediction](https://web.stanford.edu/~hastie/ElemStatLearn/). 2nd ed. New York, NY: Springer, 2009.
