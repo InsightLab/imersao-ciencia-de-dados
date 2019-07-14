@@ -38,7 +38,7 @@ Jupyter notebooks do Curso de Imersão em Ciência de Dados 2019
 
 ### 05 - Métricas de Avaliação (Regis Pires)
 - Métricas Classificação: Matriz de Confusão, Acurácia, Precisão, Recall, F-Measure
-- Métricas de Regressão: Coeficiente de Determinação ($R^2$), MSE/RMSE, MAPE, MAE 
+- Métricas de Regressão: Coeficiente de Determinação (R^2), MSE/RMSE, MAPE, MAE 
 
 ### 06 - Técnicas para melhoria dos resultados (Regis Pires)
 - Escalonamento de Features: Normalização, Padronização (Standardization)
