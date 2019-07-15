@@ -1,0 +1,2 @@
+define(["require","exports"],function(e,t){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s=(function(){function e(e){this.category="web-app_actions_telemetry",this.user_id=null,this.session_id=null,this.request_id=null,this.url=null,this.telemetry_session_id=e.telemetry_session_id,this.event_name=e.event_name,this.event_start_ts=e.event_start_ts,this.event_extras=e.event_extras,Object.seal(this)}return e})();t.AppActionsTelemetryRow=s});
+//# sourceMappingURL=web-app_actions_telemetry.min.js-vfl33ayhs.map

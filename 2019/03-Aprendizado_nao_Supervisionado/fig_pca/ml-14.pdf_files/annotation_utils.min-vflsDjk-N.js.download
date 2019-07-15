@@ -1,0 +1,2 @@
+define(["require","exports","spectrum_comments/utils/to_percent"],function(e,t,r){"use strict";function n(e){var t=e.x,n=e.y,o=e.width,c=e.height;return{top:r.toPercent(n),left:r.toPercent(t),width:r.toPercent(o),height:r.toPercent(c)}}Object.defineProperty(t,"__esModule",{value:!0}),t.toRectangleStyle=n});
+//# sourceMappingURL=annotation_utils.min.js-vflfr4_Rs.map
