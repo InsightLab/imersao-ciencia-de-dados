@@ -52,8 +52,8 @@ https://goo.gl/maps/Qp9BXS7Mk8gmdGSv5
 - SVM
 
 ### 05 - Métricas de Avaliação (Regis Pires)
-- Métricas Classificação: Matriz de Confusão, Acurácia, Precisão, Recall, F-Measure
-- Métricas de Regressão: Coeficiente de Determinação (R^2), MSE/RMSE, MAPE, MAE 
+- Métricas de Regressão: Coeficiente de Determinação MAE, (R^2), MSE/RMSE, MLSE/RMLSE, MAPE 
+- Métricas Classificação: Matriz de Confusão, Acurácia, Precisão, Recall, F-Measure, Log Loss, Curva ROC, AOC
 
 ### 06 - Técnicas para melhoria dos resultados (Regis Pires)
 - Escalonamento de Features: Normalização, Padronização (Standardization)
@@ -63,6 +63,7 @@ https://goo.gl/maps/Qp9BXS7Mk8gmdGSv5
 - Pipelines
 - Salvamento e Carga de modelos
 - Aprendizado incremental ou online
+- Criação e uso de libs externas ao Notebook
 
 ### 07 - Modelos Baseados em Árvores (Regis Pires)
 - Ganho de Informação
