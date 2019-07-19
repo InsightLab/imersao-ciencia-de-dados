@@ -94,7 +94,6 @@ https://goo.gl/maps/Qp9BXS7Mk8gmdGSv5
 
 ## Cursos Sugeridos
 - [Datacamp](https://www.datacamp.com/home)
-- [Dataquest](https://www.dataquest.io/)
 - [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Coursera - Especialização Machine Learning - Universidade de Washington (Carlos Guestrin)](https://www.coursera.org/specializations/machine-learning)
 - [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
