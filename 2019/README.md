@@ -97,4 +97,4 @@ https://goo.gl/maps/Qp9BXS7Mk8gmdGSv5
 - [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Coursera - Especialização Machine Learning - Universidade de Washington (Carlos Guestrin)](https://www.coursera.org/specializations/machine-learning)
 - [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
- 
+- [fast.ai - Álgebra Linear, Machine Learning e Deep Learning](https://www.fast.ai/) 
