@@ -91,3 +91,11 @@ https://goo.gl/maps/Qp9BXS7Mk8gmdGSv5
 - BURKOV, Andriy. [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php). 2019.
 - JAMES, G., WITTEN, D., HASTIE, T., & TIBSHIRANI, R. [An introduction to statistical learning: with applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/). Corrected edition. New York: Springer, 2013. 
 - HASTIE, Trevor; TIBSHIRANI, Robert; FRIEDMAN, Jerome. [The elements of statistical learning: data mining, inference, and prediction](https://web.stanford.edu/~hastie/ElemStatLearn/). 2nd ed. New York, NY: Springer, 2009.
+
+## Cursos Sugeridos
+- [Datacamp](https://www.datacamp.com/home)
+- [Dataquest](https://www.dataquest.io/)
+- [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [Coursera - Especialização Machine Learning - Universidade de Washington (Carlos Guestrin)](https://www.coursera.org/specializations/machine-learning)
+- [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+ 
